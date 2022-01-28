@@ -1,7 +1,9 @@
 package guru.qa;
 
 public class Fuel {
-    String type;
-    String anothertype;
+    String typeFuel = "бензине";
+    String anotherType = "дизеле";
+
+
 
 }

@@ -1,10 +1,12 @@
 package guru.qa;
 
 public class Car {
-    String color;
-    String brand;
-    int price;
-    int year;
+
+    String brandCar = "Hyundai";
+    String colorCar = "белого";
+    int priceCar = 10000;
+    int yearCar = 2014;
+
 
 
 }
